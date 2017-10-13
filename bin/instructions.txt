@@ -1,0 +1,14 @@
+
+usage: scmake app <app>
+              [feature|view] <app> <name>
+
+Use to create the necessary boiler plate for a S2 features and views.
+
+commands:
+      app        - given an app name, ceates a new S2 app
+      feature    - given an app creates a new feature in the specified application
+      view       - given an app creates a new view in the specified application
+
+arguments:
+      app       - the name of the Symphony application
+      name      - the name of the thing being created

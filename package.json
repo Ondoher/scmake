@@ -1,0 +1,20 @@
+{
+  "name": "scmake",
+  "version": "0.0.5",
+  "description": "CLI to make views and featrures for the symphony-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "bin": {
+    "s2make": "bin/scmake.js"
+  },
+  "author": "Glenn Anderson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "mootools": "^1.5.2",
+    "ncp": "^2.0.0"
+  }
+}
