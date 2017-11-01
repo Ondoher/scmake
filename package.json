@@ -7,7 +7,7 @@
     "test": "npm test"
   },
   "bin": {
-    "s2make": "bin/scmake.js"
+    "scmake": "bin/scmake.js"
   },
   "author": "Glenn Anderson",
   "license": "Apache-2.0",
