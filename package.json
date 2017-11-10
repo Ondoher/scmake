@@ -1,6 +1,6 @@
 {
   "name": "scmake",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "CLI to make views and featrures for the symphony-client",
   "main": "index.js",
   "scripts": {
